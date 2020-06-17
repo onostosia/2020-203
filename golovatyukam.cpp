@@ -505,7 +505,7 @@ void golovatyukam::lab9(){
 
 cout<<"Answer: "<<lyambda_next << endl;
 }
-
+/////////////////////////////////////
 
 
 std::string golovatyukam::get_name()
